@@ -27,6 +27,7 @@ namespace WpfGithub
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("second win");
+            Console.WriteLine("test Third branch ");
         }
     }
 }
